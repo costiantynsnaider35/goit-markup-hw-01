@@ -45,7 +45,6 @@ body {
   background-color: #2e2f42;
 }
 .bord-name {
-  font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
@@ -61,8 +60,8 @@ body {
   background-color: #4d5ae5;
   letter-spacing: 0.04em;
 }
-.borde-button-link:hover,
-.borde-button-link:focus {
+.borde-button:hover,
+.borde-button:focus {
   background-color: #404bbf;
   cursor: pointer;
 }
