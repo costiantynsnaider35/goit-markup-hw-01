@@ -1,0 +1,118 @@
+body {
+  font-family: "Roboto", "Raleway", sans-serif;
+  color: #2e2f42;
+  background-color: #fff;
+}
+/* Header*/
+.logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.16667;
+  color: #4d5ae5;
+  text-transform: uppercase;
+}
+.logo-span {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.16667;
+  color: #2e2f42;
+  text-transform: uppercase;
+}
+.menu {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #2e2f42;
+  cursor: pointer;
+}
+.menu:hover,
+.menu:focus {
+  color: #dc143c;
+}
+.contacts {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #434455;
+  font-style: normal;
+}
+.contacts:hover,
+.contacts:focus {
+  color: #dc143c;
+}
+/* Main */
+h2 {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11111;
+  color: #2e2f42;
+}
+h3 {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+
+  color: #2e2f42;
+}
+p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #434455;
+}
+.bord {
+  background-color: #2e2f42;
+}
+.bord-name {
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.07143;
+  letter-spacing: 0.02em;
+  color: #fff;
+}
+.bord-button {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #fff;
+  background-color: #4d5ae5;
+  cursor: pointer;
+}
+.borde-button-link:hover,
+.borde-button-link:focus {
+  color: #dc143c;
+}
+.team-bord {
+  background-color: #f4f4fd;
+}
+.team-bord-element {
+  background-color: #fff;
+}
+/* Footer */
+.footer-bord {
+  background-color: #2e2f42;
+}
+.logo-footer {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.16667;
+  color: #4d5ae5;
+  text-transform: uppercase;
+}
+.logo-footer-span {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.16667;
+  color: #f4f4fd;
+  text-transform: uppercase;
+}
+.footer-end {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #f4f4fd;
+}
