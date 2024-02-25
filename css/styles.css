@@ -60,8 +60,8 @@ body {
   background-color: #4d5ae5;
   letter-spacing: 0.04em;
 }
-.borde-button:hover,
-.borde-button:focus {
+.bord-button:hover,
+.bord-button:focus {
   background-color: #404bbf;
   cursor: pointer;
 }
