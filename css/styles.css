@@ -8,17 +8,19 @@ body {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.7;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   color: #4d5ae5;
   text-transform: uppercase;
+}
+.logo-header {
+  color: #2e2f42;
 }
 .menu {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   color: #2e2f42;
-  cursor: pointer;
   letter-spacing: 0.02em;
 }
 .menu:hover,
@@ -29,7 +31,6 @@ body {
   font-style: normal;
 }
 .contacts-title {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   color: #434455;
@@ -58,12 +59,12 @@ body {
   line-height: 1.5;
   color: #fff;
   background-color: #4d5ae5;
-  cursor: pointer;
   letter-spacing: 0.04em;
 }
 .borde-button-link:hover,
 .borde-button-link:focus {
-  color: #404bbf;
+  background-color: #404bbf;
+  cursor: pointer;
 }
 .team-bord {
   background-color: #f4f4fd;
@@ -132,4 +133,7 @@ body {
   line-height: 1.5;
   color: #f4f4fd;
   letter-spacing: 0.02em;
+}
+.logo-footer-span {
+  color: #f4f4fd;
 }
